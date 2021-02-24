@@ -1,0 +1,26 @@
+.country{
+    color: black;
+    margin: 18px 20px;
+    align-items: center;
+    text-align: left;
+    float: left;
+    height: 550px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 10px rgb(166, 184, 196);
+    background-image: linear-gradient(120deg,#99ffe6,gray);
+    line-height: 20px;
+    padding-left: 10px;
+}
+.propertyName{
+    font-weight: bold;
+}
+.flag{
+    font-weight: bold;
+    margin: 0 auto;
+}
+.flag img{
+    width: 80px;
+    height: 40px;
+    margin: 0 auto;
+}
